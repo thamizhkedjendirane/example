@@ -6,6 +6,7 @@
   "license": "unlicenced",
   "repository": "/example",
   "main": "dist/index.js",
+  "style":"dist/index.css",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
   "engines": {
