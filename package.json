@@ -1,12 +1,12 @@
 {
   "name": "guardianss",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Made with create-react-library",
   "author": "",
   "license": "unlicenced",
   "repository": "/example",
   "main": "dist/index.js",
-  "style":"dist/index.css",
+  "style": "dist/index.css",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
   "engines": {
