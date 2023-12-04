@@ -62,7 +62,7 @@ export const CommonContainer = ({ children, avatar }) => {
   return <div className={styles.common_containers}>{children}</div>
 }
 
-export const Card = ({
+export const GaurdiansCard = ({
   children,
   avatar,
   username,
